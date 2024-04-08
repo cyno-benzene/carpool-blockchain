@@ -1,0 +1,19 @@
+{
+  "name": "lmao",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "alchemy-sdk": "^3.2.1",
+    "dotenv": "^16.4.5",
+    "hardhat": "^2.22.2",
+    "solc": "^0.8.25"
+  }
+}
